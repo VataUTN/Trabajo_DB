@@ -32,7 +32,7 @@ El objetivo principal de este proyecto es que los estudiantes adquieran un profu
 ```
 ## Ejemplo Factura Finalizada
 
-![No fue posible cargar la imagen](Trabajo_DB/Ejercicio 3/src/main/resources/Captura de pantalla 2023-09-09 135255.pngs)
+![No fue posible cargar la imagen](Ejercicio_3/src/main/resources/Prueba_funcionamiento.png)
 
 ## Instrucciones
 
