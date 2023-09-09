@@ -20,10 +20,11 @@ El objetivo principal de este proyecto es que los estudiantes adquieran un profu
 │ │ ├── java/
 │ │ │ ├── com/
 │ │ │ │ ├── example/
-│ │ │ │ │ ├── tpbd/
-│ │ │ │ │ │ ├── Entidades/
-│ │ │ │ │ │ ├── Repositorios/
-│ │ │ │ │ │ └── TpbdApp.java
+│ │ │ │ │ ├── ejer03/
+│ │ │ │ │ │ ├── entities/
+│ │ │ │ │ │ ├── repositories/
+│ │ │ │ │ │ ├── utils/
+│ │ │ │ │ │ └── Ejer03Application.java
 │ │ ├── resources/
 │ │ └── application.properties
 ├── build.gradle
